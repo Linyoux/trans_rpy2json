@@ -1,0 +1,80 @@
+[
+    {
+        "name": "n",
+        "message": "There she is.",
+        "originMessage": "There she is.",
+        "line": 6
+    },
+    {
+        "name": "sa",
+        "message": "Alright, just a bit more and I can go have my break.",
+        "originMessage": "Alright, just a bit more and I can go have my break.",
+        "line": 12
+    },
+    {
+        "name": "sa",
+        "message": "Ah?!",
+        "originMessage": "Ah?!",
+        "line": 18
+    },
+    {
+        "name": "sa",
+        "message": "...",
+        "originMessage": "...",
+        "line": 24
+    },
+    {
+        "name": "n",
+        "message": "Come with me, Sara.",
+        "originMessage": "Come with me, Sara.",
+        "line": 30
+    },
+    {
+        "name": "sa",
+        "message": "Yes ... sir ...",
+        "originMessage": "Yes ... sir ...",
+        "line": 36
+    },
+    {
+        "name": "n",
+        "message": "There she is.",
+        "originMessage": "There she is.",
+        "line": 42
+    },
+    {
+        "name": "sa",
+        "message": "Alright, just a bit more and I can go have my break.",
+        "originMessage": "Alright, just a bit more and I can go have my break.",
+        "line": 48
+    },
+    {
+        "name": "sa",
+        "message": "Ah?!",
+        "originMessage": "Ah?!",
+        "line": 54
+    },
+    {
+        "name": "sa",
+        "message": "...",
+        "originMessage": "...",
+        "line": 60
+    },
+    {
+        "name": "n",
+        "message": "Come with me, Sara.",
+        "originMessage": "Come with me, Sara.",
+        "line": 66
+    },
+    {
+        "name": "sa",
+        "message": "Yes ... sir ...",
+        "originMessage": "Yes ... sir ...",
+        "line": 72
+    },
+    {
+        "name": "old",
+        "message": "Find Sara",
+        "originMessage": "Find Sara",
+        "line": 78
+    }
+]

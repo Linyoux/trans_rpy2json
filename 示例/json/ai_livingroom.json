@@ -1,0 +1,200 @@
+[
+    {
+        "name": "ha",
+        "message": "Hello there!",
+        "originMessage": "Hello there!",
+        "line": 6
+    },
+    {
+        "name": "ai",
+        "message": "Oh, good morning [name]!",
+        "originMessage": "Oh, good morning [name]!",
+        "line": 12
+    },
+    {
+        "name": "ha",
+        "message": "Still a heavy sleeper huh?",
+        "originMessage": "Still a heavy sleeper huh?",
+        "line": 18
+    },
+    {
+        "name": "ha",
+        "message": "Oh?",
+        "originMessage": "Oh?",
+        "line": 24
+    },
+    {
+        "name": "n",
+        "message": "Let's go to Ai's room. I need to drain your energy.",
+        "originMessage": "Let's go to Ai's room. I need to drain your energy.",
+        "line": 30
+    },
+    {
+        "name": "ha",
+        "message": "Hehe, I see.",
+        "originMessage": "Hehe, I see.",
+        "line": 36
+    },
+    {
+        "name": "ha",
+        "message": "Oh, not going to hang out with us?",
+        "originMessage": "Oh, not going to hang out with us?",
+        "line": 42
+    },
+    {
+        "name": "ha",
+        "message": "Well, see you later.",
+        "originMessage": "Well, see you later.",
+        "line": 48
+    },
+    {
+        "name": "ai",
+        "message": "Have fun, [name].",
+        "originMessage": "Have fun, [name].",
+        "line": 54
+    },
+    {
+        "name": "ai",
+        "message": "You need something?",
+        "originMessage": "You need something?",
+        "line": 60
+    },
+    {
+        "name": "ai",
+        "message": "Sure, but let's talk in my room.",
+        "originMessage": "Sure, but let's talk in my room.",
+        "line": 66
+    },
+    {
+        "name": null,
+        "message": "Ai takes you to her room and closes the door.",
+        "originMessage": "Ai takes you to her room and closes the door.",
+        "line": 72
+    },
+    {
+        "name": "ai",
+        "message": "Oh, she is working at the hospital.",
+        "originMessage": "Oh, she is working at the hospital.",
+        "line": 78
+    },
+    {
+        "name": "ai",
+        "message": "(Sigh) ... She leaves early in the morning and comes home late at night, even on the weekends.",
+        "originMessage": "(Sigh) ... She leaves early in the morning and comes home late at night, even on the weekends.",
+        "line": 84
+    },
+    {
+        "name": "n",
+        "message": "Do you feel lonely?",
+        "originMessage": "Do you feel lonely?",
+        "line": 90
+    },
+    {
+        "name": "ai",
+        "message": "Not really, I already got used to it.",
+        "originMessage": "Not really, I already got used to it.",
+        "line": 96
+    },
+    {
+        "name": "ai",
+        "message": "But now I guess I will have a friend to chat with if I ever feel alone.",
+        "originMessage": "But now I guess I will have a friend to chat with if I ever feel alone.",
+        "line": 102
+    },
+    {
+        "name": "n",
+        "message": "I want to talk to you about something.",
+        "originMessage": "I want to talk to you about something.",
+        "line": 108
+    },
+    {
+        "name": "ai",
+        "message": "Sure, but let's talk in my room.",
+        "originMessage": "Sure, but let's talk in my room.",
+        "line": 114
+    },
+    {
+        "name": null,
+        "message": "Ai takes you to her room and closes the door.",
+        "originMessage": "Ai takes you to her room and closes the door.",
+        "line": 120
+    },
+    {
+        "name": "ai",
+        "message": "You need something?",
+        "originMessage": "You need something?",
+        "line": 126
+    },
+    {
+        "name": "n",
+        "message": "Yes, there is something I want to tell you.",
+        "originMessage": "Yes, there is something I want to tell you.",
+        "line": 132
+    },
+    {
+        "name": "ai",
+        "message": "Is something wro-",
+        "originMessage": "Is something wro-",
+        "line": 138
+    },
+    {
+        "name": "ai",
+        "message": "Ah ...",
+        "originMessage": "Ah ...",
+        "line": 144
+    },
+    {
+        "name": "ai",
+        "message": "...",
+        "originMessage": "...",
+        "line": 150
+    },
+    {
+        "name": "ai",
+        "message": "Alright, talk to you later.",
+        "originMessage": "Alright, talk to you later.",
+        "line": 156
+    },
+    {
+        "name": "old",
+        "message": "Leave",
+        "originMessage": "Leave",
+        "line": 162
+    },
+    {
+        "name": "old",
+        "message": "Control them",
+        "originMessage": "Control them",
+        "line": 166
+    },
+    {
+        "name": "old",
+        "message": "Talk to Ai",
+        "originMessage": "Talk to Ai",
+        "line": 170
+    },
+    {
+        "name": "old",
+        "message": "I want to talk to you about someone.",
+        "originMessage": "I want to talk to you about someone.",
+        "line": 174
+    },
+    {
+        "name": "old",
+        "message": "Where is Sara?",
+        "originMessage": "Where is Sara?",
+        "line": 178
+    },
+    {
+        "name": "old",
+        "message": "Use Lily's energy",
+        "originMessage": "Use Lily's energy",
+        "line": 182
+    },
+    {
+        "name": "old",
+        "message": "Nevermind.",
+        "originMessage": "Nevermind.",
+        "line": 186
+    }
+]

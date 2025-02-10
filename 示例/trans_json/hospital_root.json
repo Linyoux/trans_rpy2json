@@ -1,0 +1,80 @@
+[
+  {
+    "name": "n",
+    "message": "她来了。",
+    "originMessage": "There she is.",
+    "line": 6
+  },
+  {
+    "name": "sa",
+    "message": "好吧，再稍微多一点，我就可以去休息了。",
+    "originMessage": "Alright, just a bit more and I can go have my break.",
+    "line": 12
+  },
+  {
+    "name": "sa",
+    "message": "啊？！",
+    "originMessage": "Ah?!",
+    "line": 18
+  },
+  {
+    "name": "sa",
+    "message": "…",
+    "originMessage": "...",
+    "line": 24
+  },
+  {
+    "name": "n",
+    "message": "跟我来，萨拉。",
+    "originMessage": "Come with me, Sara.",
+    "line": 30
+  },
+  {
+    "name": "sa",
+    "message": "是的……先生……",
+    "originMessage": "Yes ... sir ...",
+    "line": 36
+  },
+  {
+    "name": "n",
+    "message": "她来了。",
+    "originMessage": "There she is.",
+    "line": 42
+  },
+  {
+    "name": "sa",
+    "message": "好吧，再稍微等一下，我就可以去休息了。",
+    "originMessage": "Alright, just a bit more and I can go have my break.",
+    "line": 48
+  },
+  {
+    "name": "sa",
+    "message": "啊？！",
+    "originMessage": "Ah?!",
+    "line": 54
+  },
+  {
+    "name": "sa",
+    "message": "…",
+    "originMessage": "...",
+    "line": 60
+  },
+  {
+    "name": "n",
+    "message": "跟我来，萨拉。",
+    "originMessage": "Come with me, Sara.",
+    "line": 66
+  },
+  {
+    "name": "sa",
+    "message": "是的……先生……",
+    "originMessage": "Yes ... sir ...",
+    "line": 72
+  },
+  {
+    "name": "old",
+    "message": "找到萨拉",
+    "originMessage": "Find Sara",
+    "line": 78
+  }
+]

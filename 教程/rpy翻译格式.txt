@@ -1,0 +1,78 @@
+# TODO: Translation updated at 2025-02-08 22:27
+
+# game/script/main_story.rpy:78
+translate CN main_story_1_3c173e8f_1:
+
+    # "After waiting till afternoon, you leave Ai's house to go to her school."
+    "After waiting till afternoon, you leave Ai's house to go to her school."
+
+
+# game/script/main_story.rpy:2966
+translate CN main_story_5_48f65b1a_1:
+
+    # "Stranger" "Huh?"
+    "Stranger" "Huh?"
+
+# game/script/main_story.rpy:4576
+translate CN main_story_7_0a9ba31b_1:
+
+    # ai "They say that if you say \"lizard man\" three times, he will follow you home."
+    ai "They say that if you say \"lizard man\" three times, he will follow you home."
+
+translate CN strings:
+
+    # game/script/main_story.rpy:1012
+    old "Change her memories"
+    new "Change her memories"
+
+    # game/script/main_story.rpy:4653
+    old "Go to the kitchen."
+    new "Go to the kitchen."
+
+所以，得出他们的文件形式：
+# TODO: Translation updated at Time
+
+# 文件路径.rpy:行数位置
+translate lauguage 文件_id位置
+
+    # "文本"
+    "文本"
+
+# 文件路径.rpy:行数位置
+translate lauguage 文件_id位置
+
+    # "字符串人名" "文本"
+    "字符串人名" "文本"
+
+# 文件路径.rpy:行数位置
+translate lauguage 文件_id位置
+
+    # 人名缩写 "文本"
+    人名缩写 "文本"
+
+# 文件路径.rpy:行数位置
+translate lauguage 文件_id位置
+
+    # "字符串人名" "带有转义符的文本"
+    "字符串人名" "带有转义符的文本"
+
+translate CN strings:
+
+    # 文件路径.rpy:行数位置
+    old "旧字符串"
+    new "新字符串"
+
+简单来说，就是这两种结构
+# 文件路径.rpy:行数位置
+translate lauguage 文件_id位置
+
+    #无人名或人名简写或"人名" 原始字符串
+    无人名或人名简写或"人名" 原始字符串
+
+translate CN strings(还会提取字符串):
+
+    # 文件路径.rpy:行数位置
+    old "旧字符串"
+    new "新字符串"
+
+根据这个思路，写正则表达式或python代码提取原文译文，再注回。
