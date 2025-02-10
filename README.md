@@ -1,0 +1,2 @@
+# trans_rpy2json
+将renpySDK提取的翻译文本转化为galtransl能翻译的json文件，并通过翻译后的json注回。
