@@ -1,2 +1,6 @@
-# trans_rpy2json
-将renpySDK提取的翻译文本转化为galtransl能翻译的json文件，并通过翻译后的json注回。
+# trans_rpy2json  
+将renpySDK提取的翻译文本转化为galtransl能翻译的json文件，并将翻译后的json注回。  
+代码并不完美，但bug出现的次数并不会多，懒得改了，可能还没翻译过程中出现的bug多。  
+翻译文件中，有些语法可能会被错误翻译，比如[name]被翻译成[名字]，比如直接去掉转义符，为了避免这种情况，我们可以使用
+[GPT字典](./其他/项目GPT字典.txt)，比如Galtransl在匹配到输入词[name]后，会把一整行发过去，即[name]	[name]	#不要翻译[]里面的内容。  
+这样提醒AI，就能减少问题。
